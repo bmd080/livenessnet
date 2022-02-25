@@ -7,3 +7,6 @@
 # 微信：aijsfx2
 
   可进行AI项目交流
+  
+  
+  https://pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/
